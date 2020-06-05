@@ -24,6 +24,9 @@ header {
     font-size: 45px;
     padding-left: 10px;
 }
+.container {
+    padding: 0 10px;
+}
 footer {
     color: lightslategray;
     padding-left: 20px;
